@@ -31,12 +31,12 @@
     
    3 . TheTankSensor ( DIY )
       
-        |~~~~~~|         
-   HIGH |=~~~~~|        |=      <= denotes pin
-   MED  |=~~~~~|
-   LOW  |=~~~~~|
-        |~~~~~~| 
-        |_____=|    X in Volt   (X<5V with 330 ohm)
+*          |~~~~~~|         
+ *    HIGH |=~~~~~|        |=      <= denotes pin
+ *    MED  |=~~~~~|
+ *    LOW  |=~~~~~|
+           |~~~~~~| 
+           |_____=|    X in Volt   (X<5V with 330 ohm)
        
        Please do refer the circuit given
        
