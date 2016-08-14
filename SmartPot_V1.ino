@@ -1,5 +1,8 @@
 /* SmartPot V1 - 12/AUG/2016
- *  Hey Developer !
+ * 
+ * Developed by Hariraj.R an arduino startup.
+ *
+ * Hey Developer !
  *  
  *  Sensors used: 
  *  1 . DHT 11 for Temperature and Humidity reading
