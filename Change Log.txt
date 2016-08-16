@@ -1,0 +1,1 @@
+Blinks ( synchronised with buzzer ) Reservoir low level LED and beeps buzzer for 3 seconds when water is not there in the reservoir.
